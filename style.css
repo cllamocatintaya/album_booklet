@@ -1,0 +1,20 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 25pt;
+}
+
+h2 {
+    font-size: 18pt;
+}
+
+hr {
+    display: inline-block;
+    width: 550px;
+}
+
+pre {
+    font-size: 12pt;
+}
